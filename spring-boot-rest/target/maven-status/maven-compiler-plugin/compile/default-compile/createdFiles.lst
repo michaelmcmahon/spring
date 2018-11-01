@@ -1,0 +1,8 @@
+com\example\demo\controllers\StudentRetrieveController.class
+com\example\demo\SpringBootRestApplication.class
+com\example\demo\controllers\StudentRegistrationController.class
+com\example\demo\controllers\StudentUpdateController.class
+com\example\demo\beans\Student.class
+com\example\demo\controllers\StudentDeleteController.class
+com\example\demo\beans\StudentRegistration.class
+com\example\demo\beans\StudentRegistrationReply.class
